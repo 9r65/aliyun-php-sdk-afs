@@ -21,6 +21,5 @@
         "files": [
           "src/aliyun/core/Config.php"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
