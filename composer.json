@@ -22,5 +22,4 @@
           "src/aliyun/core/Config.php"
         ]
     },
-    "minimum-stability":"stable"
 }
